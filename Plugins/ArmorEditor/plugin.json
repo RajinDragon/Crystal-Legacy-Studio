@@ -1,0 +1,12 @@
+{
+  "id": "armor-editor",
+  "name": "Armor Editor",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Game Data"
+  ],
+  "label": "Armor",
+  "description": "Installable Armor Editor module.",
+  "status": "preview"
+}

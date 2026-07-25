@@ -1,0 +1,12 @@
+{
+  "id": "weapon-editor",
+  "name": "Weapon Editor",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Game Data"
+  ],
+  "label": "{UNTESTED} Weapons",
+  "description": "Installable Weapon Editor module.",
+  "status": "untested"
+}

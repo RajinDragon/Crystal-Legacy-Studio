@@ -1,0 +1,12 @@
+{
+  "id": "job-editor",
+  "name": "Job Editor",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Game Data"
+  ],
+  "label": "Jobs",
+  "description": "Installable Job Editor module.",
+  "status": "preview"
+}

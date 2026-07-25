@@ -1,0 +1,12 @@
+{
+  "id": "monster-sprite-studio",
+  "name": "Monster Sprite Studio",
+  "version": "0.5.9",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Sprite Studio"
+  ],
+  "label": "Monster Sprites",
+  "description": "Monster artwork library with live palette recoloring, reusable appearances, and working-project staging.",
+  "status": "preview"
+}

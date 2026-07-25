@@ -1,0 +1,7 @@
+Pillow>=10.0
+cryptography>=42.0
+pytest>=8.0
+
+tkinterdnd2>=0.4.2
+
+lz4>=4.3
