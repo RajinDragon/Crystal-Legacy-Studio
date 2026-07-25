@@ -1,3 +1,10 @@
+## 0.6.4 — Requirements README
+
+- Added official download links and PowerShell installation commands.
+- Added `requirements.txt`.
+- Added package verification and troubleshooting commands.
+- Added `docs/INSTALLATION.md`.
+
 # Changelog
 
 ## 0.6.3 Community Preview
