@@ -1,0 +1,12 @@
+{
+  "id": "asset-browser",
+  "name": "Asset Library",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Content"
+  ],
+  "label": "Asset Library",
+  "description": "Installable Asset Library module.",
+  "status": "preview"
+}

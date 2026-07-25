@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+logs/
+build/
+dist/
+*.spec
+local_settings.json
+settings.json
+*.deployment.json
+Backups/
+Import/
+Export/
+Working/
+MagiciteExport/
+FINAL FANTASY_Data/
+BepInEx/

@@ -1,0 +1,12 @@
+{
+  "id": "encounter-editor",
+  "name": "Encounter Designer",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Game Data"
+  ],
+  "label": "{UNTESTED} Encounters",
+  "description": "Installable Encounter Designer module.",
+  "status": "untested"
+}

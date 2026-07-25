@@ -1,0 +1,12 @@
+{
+  "id": "sprite-studio",
+  "name": "Sprite Studio",
+  "version": "0.5.6",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Sprite Studio"
+  ],
+  "label": "Character Sprites",
+  "description": "Battle and overworld character sprite library, pairing, extraction, previews, and recoloring.",
+  "status": "preview"
+}

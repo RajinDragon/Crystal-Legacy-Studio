@@ -1,0 +1,12 @@
+{
+  "id": "item-editor",
+  "name": "Item & Key Item Designer",
+  "version": "0.5.1",
+  "entry": "plugin.py",
+  "explorer_path": [
+    "Game Data"
+  ],
+  "label": "Items",
+  "description": "Installable Item & Key Item Designer module.",
+  "status": "preview"
+}

@@ -1,0 +1,4 @@
+Pillow
+lz4
+cryptography
+tkinterdnd2

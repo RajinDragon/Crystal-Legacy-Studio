@@ -1,0 +1,17 @@
+Crystal Legacy Studio 0.6.0 Community Preview
+
+This distribution is intended for GitHub contributor testing.
+
+Changes:
+- Project Explorer opens at a readable width based on its visible labels.
+- Level Probe was removed from the distribution.
+- Unverified plugins are labeled {UNTESTED}.
+- Added README, setup guide, introduction, plugin SDK guide, contribution guide, known issues, changelog, GitHub checklist and .gitignore.
+- Removed Python cache files.
+
+Important:
+- Back up all game and mod folders.
+- MagiciteExport is read-only reference data.
+- Monster recolor deployment remains under in-game verification.
+- Job equipment/magic permission editing remains unresolved.
+- A repository license has not been selected.
